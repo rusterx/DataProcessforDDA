@@ -10,5 +10,9 @@ Version 0.12
 Version 0.13
     add different platform support for script files.
 
+Version 0.14
+    remove \n for script files, if this problem can not solved, then you can use next command line to solve it.
+    sed -i 's/\r//g' /usr/local/bin/*.py
+
 Usage:
     information about is to be written.
