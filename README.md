@@ -1,18 +1,26 @@
-Version 0.1
-    origin version.
+<h2>History</h2>
 
-Version 0.11
-    add some script files and add README.md for more details.
+<p>Version 0.1</p>
+<pre>origin version.</pre>
 
-Version 0.12
-    remove some bugs of bin directory.
+<p>Version 0.11</p>
+<pre>add some script files and add README.md for more details.</pre>
 
-Version 0.13
-    add different platform support for script files.
+<p>Version 0.12</p>
+<pre>remove some bugs of bin directory.</pre>
 
-Version 0.14
-    remove \n for script files, if this problem can not solved, then you can use next command line to solve it.
-    sed -i 's/\r//g' /usr/local/bin/*.py
+<p>Version 0.13</p>
+<pre>add different platform support for script files.</pre>
 
-Usage:
-    information about is to be written.
+<p>Version 0.14</p>
+<pre>remove \n for script files, if this problem can not solved, then you can use next command line to solve it.
+sed -i 's/\r//g' /usr/local/bin/*.py</pre>
+
+<p>Version 0.15-20150411</p>
+<pre>write format readme.</pre>
+
+<p>Version 0.16-20150411</p>
+<pre>format readme</pre>
+
+<h2>Usage:</h2>
+<p>information about is to be written.</p>

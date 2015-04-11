@@ -16,7 +16,7 @@ else:
 # setup
 setup(
     name='ddp',
-    version='0.14',
+    version='0.16',
     packages=find_packages(),
     package_data={
         'ddp': ['Template/*.tpl']
